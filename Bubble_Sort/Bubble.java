@@ -9,7 +9,7 @@ import java.util.Random;
 
 
 
-public class Buble {
+public class Bubble {
 
     public static int[] bubbleSort(int [] a)
     {
